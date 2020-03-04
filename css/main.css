@@ -45,3 +45,56 @@ h2 {
   width:200px;
   z-index: 1;
 }
+
+
+.yellow {
+  background-color: yellow;
+  height: 160px;
+}
+
+.blue {
+  background-color: blue;
+  height: 160px;
+
+}
+
+.red {
+  background-color: red;
+  height: 320px;
+}
+
+.white {
+  background-color: white;
+  height: 160px;
+}
+
+.box1 {
+  float: left;
+  height: 320px;
+  background-color: white;
+
+  width: calc(100% / 2);
+}
+.boxed {
+
+}
+
+.red2 {
+  background-color: red;
+  height: 160px;
+}
+
+.black {
+   background-color: black;
+}
+
+.box3 {
+  width: calc(100% / 2);
+  height: 160px;
+  float: left;
+}
+
+
+.border {
+  border: 1px solid black;
+}
